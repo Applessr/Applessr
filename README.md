@@ -1,5 +1,4 @@
-
-##Hi I'm Sasita Srisura(Apple)
+Hi I'm Sasita Srisura(Apple)
 ======================================
 
 Hello! I'm a passionate React, Next.js, JavaScript, TypeScript developer currently working as a freelance developer. I specialize in building responsive, user-friendly web applications and enjoy working with modern web technologies to deliver high-quality results.
