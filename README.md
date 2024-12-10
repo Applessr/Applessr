@@ -1,7 +1,7 @@
 Hi I'm Sasita Srisura(Apple)
 ======================================
 
-Hello! I'm a passionate React, Next.js, JavaScript, TypeScript developer currently working as a freelance developer. I specialize in building responsive, user-friendly web applications and enjoy working with modern web technologies to deliver high-quality results.
+## I'm a passionate developer 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Sasita\_ssr@kkumail.com](mailto:Sasita_ssr@kkumail.com)
