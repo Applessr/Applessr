@@ -5,7 +5,6 @@ Hi I'm Sasita Srisura(Apple)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Sasita\_ssr@kkumail.com](mailto:Sasita_ssr@kkumail.com)
-* 🧠  I'm learning Nest.js
 
 ### Skills
 
